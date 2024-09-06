@@ -19,6 +19,7 @@
 
 body{
     max-width: 100vw;
+    min-heigh: 100vh;
     background: var(--color-base-black-200);
 }
 
